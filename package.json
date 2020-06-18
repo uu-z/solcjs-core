@@ -1,5 +1,5 @@
 {
-  "name": "solcjs-core",
+  "name": "solcjs-core-fix",
   "version": "0.7.0",
   "description": "solcjs core",
   "main": "src/index",
@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "ajax-caching": "^0.3.0",
-    "solc-import": "^0.0.2",
+    "solc-import-fix": "^0.0.2",
     "solc-version": "^0.3.0"
   }
 }
